@@ -1,11 +1,10 @@
 import { useState } from 'react'
-import './App.css'
 
 function App() {
 
   return (
     <>
-      <h1>Template cleared....</h1>
+      <h1 className='text-3xl font-bold underline text-green-500'>Template cleared....</h1>
     </>
   )
 }
