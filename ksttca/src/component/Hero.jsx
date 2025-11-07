@@ -15,9 +15,9 @@ function Hero() {
       {/* Hero Content */}
       <div className="relative z-10 text-center px-6">
         <h1 className="text-[clamp(2rem,5vw,4rem)] font-bold text-white leading-tight drop-shadow-lg">
-          <span className="text-[#E63946]">Practice</span> ·{" "}
-          <span className="text-[#F8FAFC]">Precision</span> ·{" "}
-          <span className="text-[#E63946]">Perfection</span>
+          <span>Practice</span> ·{" "}
+          <span>Precision</span> ·{" "}
+          <span>Perfection</span>
         </h1>
 
         <p className="mt-6 text-[#CBD5E1] text-[clamp(1rem,1.3vw,1.2rem)] max-w-[42rem] mx-auto leading-relaxed">
